@@ -130,4 +130,10 @@ export const iptv_org_stream_sources: TSources = [
         url: "https://fastly.jsdelivr.net/gh/iptv-org/iptv@master/streams/cn_cgtn.m3u",
         filter: iptv_org_stream_filter,
     },
+    {
+        name: "iptv.org stream HK",
+        f_name: "o_s_hk",
+        url: "https://fastly.jsdelivr.net/gh/iptv-org/iptv@master/streams/hk.m3u",
+        filter: iptv_org_stream_filter,
+    },
 ]
