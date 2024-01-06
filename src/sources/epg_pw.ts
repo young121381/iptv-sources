@@ -58,4 +58,9 @@ export const epg_pw_sources: TSources = [
         f_name: "all",
         url: "https://epg.pw/test_channels_all.m3u",
     },
+    {
+        name: "HK",
+        f_name: "HK",
+        url: "https://epg.pw/test_channels_hong_kong.m3u",
+    },
 ]
